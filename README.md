@@ -1,2 +1,2 @@
 # documentation
-This repo contains general documentation about the initiative
+This repo contains general documentation about the initiative.
